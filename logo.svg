@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="189.41695mm"
-   height="23.680519mm"
-   viewBox="0 0 189.41695 23.680519"
+   width="194.41695mm"
+   height="28.680519mm"
+   viewBox="0 0 194.41695 28.680519"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.99775532"
-     inkscape:cx="368.32678"
-     inkscape:cy="136.80709"
+     inkscape:zoom="1.4110391"
+     inkscape:cx="58.46755"
+     inkscape:cy="41.458808"
      inkscape:window-width="1366"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -40,22 +40,23 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     width="190.41695mm">
     <inkscape:grid
        type="xygrid"
        id="grid38607"
        originx="-13.282204"
        originy="-77.456132" />
     <sodipodi:guide
-       position="39.511608,44.09927"
+       position="42.002144,48.369025"
        orientation="1,0"
        id="guide26" />
     <sodipodi:guide
-       position="189.33751,-24.84716"
+       position="194.44743,40.306113"
        orientation="1,0"
        id="guide28" />
     <sodipodi:guide
-       position="147.43929,64.252842"
+       position="150.00766,46.11891"
        orientation="1,0"
        id="guide30" />
     <sodipodi:guide
@@ -88,14 +89,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.7583px;line-height:125%;font-family:time;-inkscape-font-specification:time;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="52.658203"
-       y="89.630356"
+       x="55.304039"
+       y="91.747025"
        id="text737"><tspan
          sodipodi:role="line"
          id="tspan735"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7583px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';stroke-width:0.264583px"
-         x="52.658203"
-         y="89.630356"><tspan
+         x="55.304039"
+         y="91.747025"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
    id="tspan49151">∆</tspan>Taichi<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
@@ -103,25 +104,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="156.3502"
-       y="82.127686"
+       x="158.996"
+       y="84.244354"
        id="text21377"><tspan
          sodipodi:role="line"
          id="tspan21375"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583px"
-         x="156.3502"
-         y="82.127686">T</tspan></text>
+         x="158.996"
+         y="84.244354">T</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="12.939072"
-       y="99.309372"
+       x="15.584903"
+       y="101.42604"
        id="text28516"><tspan
          sodipodi:role="line"
          id="tspan28514"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583px"
-         x="12.939072"
-         y="99.309372"><tspan
+         x="15.584903"
+         y="101.42604"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
    id="tspan32442">G</tspan>PU <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
